@@ -20,7 +20,7 @@ This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/),
 
 * [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
 * [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
-* [Szabolcs Toth](https://twitter.com/_Nec) for invinting us to JSConf Budapest and helping us with everything we needed
+* [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
 
 ## Media
 
