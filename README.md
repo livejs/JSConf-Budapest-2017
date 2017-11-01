@@ -1,6 +1,6 @@
 # JSConf Budapest 2017
 
-We did a audio + visual + light performance for after-party of [JSConf Budapest](http://jsconfbp.com/).
+We did a audio + visual + light performance for the after-party of [JSConf Budapest](http://jsconfbp.com/).
 
 * Where? [Corvin Club](http://corvinclub.hu/index.php/en/), Budapest, Hungary
 * When? 26th of October 2017, 08:30pm until 10:00pm
