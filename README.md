@@ -7,10 +7,10 @@ We did a audio + visual + light performance for after-party of [JSConf Budapest]
 
 ## LiveJS-Team
 
-* Ruth John: Visuals provided by Vizra
-* Sam Wray: Music (Chiptune) played with two Game Boy Advance
-* Martin Schuhfuss: Lights controlled by dmxpen
-* Tim Pietrusky: Lights controlled by dmxpen
+* [Ruth John](https://twitter.com/Rumyra): Visuals provided by Vizra
+* [Sam Wray](https://twitter.com/_2xAA): Music (Chiptune) played with two Game Boy Advance
+* [Martin Schuhfuss](https://twitter.com/usefulthink): Lights controlled by dmxpen
+* [Tim Pietrusky](https://twitter.com/TimPietrusky): Lights controlled by dmxpen
 
 ## Sponsor
 
