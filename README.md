@@ -12,16 +12,6 @@ LiveJS did a audio + visual + light performance for the after-party of [JSConf B
 * [Martin Schuhfuss](https://twitter.com/usefulthink): Lights controlled by dmxpen
 * [Tim Pietrusky](https://twitter.com/TimPietrusky): Lights controlled by dmxpen
 
-## Sponsor
-
-This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest. 
-
-## Thank you
-
-* [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
-* [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
-* [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
-
 ## Images
 
 You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eURY62). 
@@ -41,6 +31,17 @@ You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eU
 * https://twitter.com/jsconfbp/status/923602843453591552
 * https://twitter.com/usefulthink/status/923538403743928321
 * https://twitter.com/TimPietrusky/status/923549737554513920
+
+
+## Thank you
+
+* [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
+* [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
+* [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
+
+## Sponsor
+
+This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
 
 
 ## Something missing?
