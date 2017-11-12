@@ -41,7 +41,7 @@ You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eU
 
 ## Sponsor
 
-
+![SinnerSchrader](sinnerschrader.svg)
 
 This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
 
@@ -51,4 +51,4 @@ This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/),
 * You have a picture of LiveJS?
 * You have a video of LiveJS?
 
-Please send it to we@livejs.network or tweet @LiveJS_network or PR
+Please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network or PR
