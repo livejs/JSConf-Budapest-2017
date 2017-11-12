@@ -16,7 +16,7 @@ LiveJS did a audio + visual + light performance for the after-party of [JSConf B
 
 You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eURY62). 
 
-![album](https://photos.app.goo.gl/lHA6RkesSXXRYjG52)
+![album](thetaplus_20171028200535762.jpg)
 
 ### Credits
 
@@ -40,6 +40,8 @@ You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eU
 * [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
 
 ## Sponsor
+
+
 
 This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
 
