@@ -15,17 +15,22 @@ LiveJS did a audio + visual + light performance for the after-party of [JSConf B
 * [Martin Schuhfuss](https://twitter.com/usefulthink): Lights controlled by dmxpen
 * [Tim Pietrusky](https://twitter.com/TimPietrusky): Lights controlled by dmxpen
 
+
+# Media
+
+![party planet](thetaplus_20171028200535762.jpg)
+
 ## Images
 
 You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eURY62). 
-
-![album](thetaplus_20171028200535762.jpg)
 
 ### Credits
 
 * Plantes by [Stefan Judis](https://twitter.com/stefanjudis)
 
 ## Videos
+
+You can [find all videos in our playlist](https://www.youtube.com/playlist?list=PLEnQT2JvYj1DeVDwP5eAQVRy1LBlevwgn).
 
 ## Tweets
 
@@ -36,23 +41,23 @@ You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eU
 * https://twitter.com/TimPietrusky/status/923549737554513920
 
 
-## Thank you
+# Thank you
 
 * [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
 * [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
 * [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
 
-## Sponsor
+# Sponsor
 
 ![SinnerSchrader](sinnerschrader.svg)
 
 This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
 
 
-## Something missing?
+# Something missing?
 
 * A picture of LiveJS?
 * A video of LiveJS?
 * Something else of LiveJS?
 
-Please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network or PR
+Please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network) or PR
