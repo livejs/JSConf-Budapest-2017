@@ -2,8 +2,11 @@
 
 LiveJS did a audio + visual + light performance for the after-party of [JSConf Budapest](http://jsconfbp.com/).
 
+<img src="jsconfbudapest.svg" width=200 height=200 alt="JSConf Budapest 2017" />
+
 * Where? [Corvin Club](http://corvinclub.hu/index.php/en/), Budapest, Hungary
 * When? 26th of October 2017, 08:30pm until 10:00pm
+
 
 ## Artists
 
