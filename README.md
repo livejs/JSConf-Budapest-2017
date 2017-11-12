@@ -44,14 +44,14 @@ You can [find all videos in our playlist](https://www.youtube.com/playlist?list=
 # Thank you
 
 * [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
-* [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
-* [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
+* [Feli](https://twitter.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
+* [SinnerSchrader](https://twitter.com/sinnerschrader) for sponsoring flights and accomodation
 
 # Sponsor
 
 ![SinnerSchrader](sinnerschrader.svg)
 
-This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
+This performance was sponsored by [SinnerSchrader](https://twitter.com/sinnerschrader), because [Feli](https://twitter.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest to spread the love for the Web. 
 
 
 # Something missing?
