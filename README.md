@@ -1,37 +1,40 @@
 # JSConf Budapest 2017
 
-We did a audio + visual + light performance for the after-party of [JSConf Budapest](http://jsconfbp.com/).
+LiveJS did a audio + visual + light performance for the after-party of [JSConf Budapest](http://jsconfbp.com/).
 
 * Where? [Corvin Club](http://corvinclub.hu/index.php/en/), Budapest, Hungary
 * When? 26th of October 2017, 08:30pm until 10:00pm
 
-## LiveJS-Team
+## Artists
 
-* [Ruth John](https://twitter.com/Rumyra): Visuals provided by Vizra
-* [Sam Wray](https://twitter.com/_2xAA): Music (Chiptune) played with two Game Boy Advance
+* [Ruth John](https://twitter.com/Rumyra): Visuals provided by [Vizra](https://github.com/livejs/Vizra)
+* [Sam Wray](https://twitter.com/_2xAA): Chiptune played with two Game Boy Advance
 * [Martin Schuhfuss](https://twitter.com/usefulthink): Lights controlled by dmxpen
 * [Tim Pietrusky](https://twitter.com/TimPietrusky): Lights controlled by dmxpen
 
 ## Sponsor
 
-This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and Tim thought that it's a good idea to bring LiveJS to JSConf Budapest. 
+This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/), because [Feli](https://github.com/kotzendekrabbe) and [Tim](https://twitter.com/TimPietrusky) thought that it's a good idea to bring LiveJS to JSConf Budapest. 
 
 ## Thank you
 
+* [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
 * [Feli](https://github.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
 * [SinnerSchrader](https://sinnerschrader.com/) for sponsoring flights and accomodation
-* [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
 
-## Media
+## Images
 
-### Unsorted
+You can [find all pictures in our album](https://photos.app.goo.gl/Sg9A4tKQNB0eURY62). 
 
-* https://photos.google.com/share/AF1QipPoM-h9Em0nquzOkFUHgBUqLRYpaJ6Y8-LY2m0Ifd9uTcRDgRVuCpHKq5nRYBcmvg?key=aEVXT20wYW81V1VxeWw1X1JyUkd4V0E2YTRSSU93
+![album](https://photos.app.goo.gl/lHA6RkesSXXRYjG52)
 
+### Credits
 
-### Images
+* Plantes by [Stefan Judis](https://twitter.com/stefanjudis)
 
-### Tweets
+## Videos
+
+## Tweets
 
 * https://twitter.com/jsconfbp/status/923624871434899457
 * https://twitter.com/jsconfbp/status/923622936132620288
@@ -39,6 +42,10 @@ This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/),
 * https://twitter.com/usefulthink/status/923538403743928321
 * https://twitter.com/TimPietrusky/status/923549737554513920
 
-### Videos
 
-* https://drive.google.com/drive/u/1/folders/0B1_fWTwxh0wiLS1WSGRaS05ZQ0E
+## Something missing?
+
+* You have a picture of LiveJS?
+* You have a video of LiveJS?
+
+Please send it to we@livejs.network or tweet @LiveJS_network or PR
