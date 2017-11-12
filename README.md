@@ -56,8 +56,12 @@ This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/),
 
 # Something missing?
 
+We want to collect everything related to this event, so we are asking you: 
+
+Do you have...
+
 * A picture of LiveJS?
 * A video of LiveJS?
 * Something else of LiveJS?
 
-Please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network) or PR
+If the answer is yes, then please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network) or PR. 
