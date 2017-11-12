@@ -48,7 +48,8 @@ This performance was sponsored by [SinnerSchrader](https://sinnerschrader.com/),
 
 ## Something missing?
 
-* You have a picture of LiveJS?
-* You have a video of LiveJS?
+* A picture of LiveJS?
+* A video of LiveJS?
+* Something else of LiveJS?
 
 Please send it to we@livejs.network or tweet [@LiveJS_network](https://twitter.com/livejs_network or PR
