@@ -45,7 +45,7 @@ You can [find all videos in our playlist](https://www.youtube.com/playlist?list=
 
 * [Szabolcs Toth](https://twitter.com/_Nec) for inviting us to JSConf Budapest and helping us with everything we needed
 * [Felicitas Kugland](https://twitter.com/kotzendekrabbe) for managing flights, accommodation and everything inbetween
-* [SinnerSchrader](https://twitter.com/sinnerschrader) for sponsoring flights and accomodation
+* [SinnerSchrader](https://twitter.com/sinnerschrader) for sponsoring flights, accomodation & fee
 
 # Sponsor
 
